@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body>
+
+    <h2> Welcome  </h2>
+    <p> Welcome to our site, we hope you enjoy your time spent with us.  </p>
+
+<audio controls loop with="100% poster="Image/">
+  <source src="Audio/Calming.wav" type="audio/wav" />
+  <source src="Audio/Calming.ogg" type="audio/ogg" />
+  <source src="Audio/Calming.mp3" type="audio/mpeg" />
+<p> Sorry your browser simply won't cut it, no audio for you :( </P>
+  </audio>
+
+<video controls loop>
+  <source src="Video/Dog.webm" type="Video/webm" />
+  <source src="Video/Dog.ogg" type="Video/ogg" />
+  <source src="Video/Dog.mp4" type="Video/mp4" />
+<p> Sorry, your brower doesn't support this video element. Truly Tragic. :( </P>
+</video>
+
+
+<p> The video and audio clip complement each other, try playing them together. Enjoy! </p>
+
+
+  </body>
+</html>
