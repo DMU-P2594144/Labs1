@@ -1,0 +1,42 @@
+p {
+  color: blue
+  font-size: 2em;
+}
+
+footer {
+  background-color: #222;
+}
+
+footer p {
+color:white;
+font-size:0.8em;
+}
+
+p{
+  background-color: DarkCyan;
+}
+
+p {
+  font-family: Helvetica, Arial, sans-serif;
+  font-weight: 300;
+  font-size: 14px;
+  color: ;
+  text-align: ;
+}
+
+
+h1{
+  font-family: Helvetica;
+}
+
+h2{
+  font-family: Helvetica;
+}
+
+p{
+  background-color: rgb(70, 80, 120)
+  border: 10px black solid;
+  border-radius: 3px
+  padding: 10px;
+  margin: 20px;
+}
